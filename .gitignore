@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+client/.history/.eslintrc_20200718004610.json
+client/.eslintrc.json
+client/.editorconfig
+client/.vscode/settings.json
